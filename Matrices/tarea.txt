@@ -1,0 +1,2 @@
+regla para permitir la multiplicacion de matrices no cuadradas
+buscar un ejercicio de una matriz resuelta que no sea de 2*2
